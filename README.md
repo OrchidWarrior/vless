@@ -7,7 +7,7 @@
 ## 📦 مخزن ابزارها، کلاینت‌ها و لینک‌های دانلود (اینترانت / اینترنت)
 
 <div align="right">
-  <img src="https://img.shields.io/badge/آخرین_بروزرسانی_یازدهم_ازدیبهشت_۱۴۰۵-blue?style=for-the-badge&logo=github" alt="Update Date" />
+  <img src="https://img.shields.io/badge/آخرین_بروزرسانی_شانزدهم_ازدیبهشت_۱۴۰۵-blue?style=for-the-badge&logo=github" alt="Update Date" />
   <img src="https://img.shields.io/badge/وضعیت-فعال-success?style=for-the-badge" alt="Status" />
 </div>
 
@@ -40,17 +40,15 @@
 <details>
 <summary> برای مشاهده لیست تغییرات اخیر کلیک کنید. </summary><br/>
 
-- ✔️ کلاینت Exclave نسخه v0.17.37
+- ✔️ کلاینت Happ نسخه‌ی v3.20.2
+- ✔️ کلاینت Exclave نسخه v0.17.38
 - ✔️ کلاینت v2rayNG نسخه v2.1.4
 - ✔️ اپ ویندسکرایب نسخه v4.0.2178
 - ✔️ کلاینت clash-meta نسخه v2.11.27
 - ✔️ سایفون پرو گوگل‌پلی نسخه v462
-- ✔️ نسخه v5.32 اپ pdaNet
-- ✔️ کلاینت NetMod نسخه v4.0.2
+- ✔️ اپ pdaNet نسخه v5.32
 - ✔️ کلاینت نکوباکس نسخه v1.4.2
 - ✔️ اپ DNS Changer نسخه مود v2.9.2
-- ✔️ کلاینت Master DNS GG نسخه v1.0.9
-- ✔️ کلاینت Happ نسخه‌ی v3.18.1 (اندروید و ویندوز)
 - ✔️ اپ MahsaAlert آفلاین نسخه v10
 
 </details>
@@ -82,12 +80,13 @@
 - ClashMeta — v2.11.27 ([armv8](https://github.com/nscl5/sandbox/raw/refs/heads/main/downloads/cmfa-2.11.27-meta-arm64-v8a-release.apk) / [armv7](https://github.com/nscl5/sandbox/raw/refs/heads/main/downloads/cmfa-2.11.27-meta-armeabi-v7a-release.apk) / [universal](https://github.com/nscl5/sandbox/raw/refs/heads/main/downloads/cmfa-2.11.27-meta-universal-release.apk))
 - Defyx — v5.2.8 ([armv8](https://github.com/nscl5/sandbox/raw/refs/heads/main/downloads/app-arm64-v8a-release.apk) / [armv7](https://github.com/nscl5/sandbox/raw/refs/heads/main/downloads/app-armeabi-v7a-release.apk) / [win](https://github.com/nscl5/sandbox/raw/refs/heads/main/downloads/windows-release.zip))
 - DNSTT — v2.2.0 ([armv8](https://c147793.parspack.net/c147793/DNSTT_CLIENT/DNSTT_armv8_v2.2.0.apk) / [armv7](https://c147793.parspack.net/c147793/DNSTT_CLIENT/DNSTT_armv7_v2.2.0.apk) / [conf](https://c147793.parspack.net/c147793/DNSTT_CLIENT/dnstt_conf.txt))
-- Exclave — v1.17.37 ([armv8](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.37-arm64-v8a.apk) / [armv7](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.37-armeabi-v7a.apk)) + ([full backup 1 May](https://github.com/nscl5/dl/raw/main/dl/ExclaveFullBackup_1May_2026.zip)) 🆕
-- Happ — v3.18.1 ([universal](https://c224731.parspack.net/c224731/happ/HappAndroid_universal_v3.18.1.apk) / [win-x64](https://c224731.parspack.net/c224731/happ/Happ_windows-x64_v2.9.0.zip))
+- Exclave — v1.17.38 ([armv8](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.38-arm64-v8a.apk) / [armv7](https://github.com/nscl5/dl/raw/main/dl/Exclave-0.17.38-armeabi-v7a.apk)) + ([full backup 1 May](https://github.com/nscl5/dl/raw/main/dl/ExclaveFullBackup_1May_2026.zip))
+- Happ — v3.20.2 ([universal](https://github.com/nscl5/dl/raw/main/dl/Happ.apk) / [win-x64](https://c224731.parspack.net/c224731/happ/Happ_windows-x64_v2.9.0.zip)) 🆕
 - Hiddify — v4.1.1 ([universal](https://files.bokhary.ir/logique/pub/Clients/Hiddify-Android-v8a-4.1.1.apk) / [macos](https://api.mirrorino.com/raw/amirhbuilds/hiddify-app/releases/v4.1.1/Hiddify-MacOS.dmg) / [win](https://api.mirrorino.com/raw/amirhbuilds/hiddify-app/releases/v4.1.1/Hiddify-Windows-Setup-x64.exe))
 - HTTP Injector — v6.5.0 ([universal](https://c147793.parspack.net/c147793/HTTP-Injector_universal_6.5.0.apk))
 - InviZible Pro — v7.4.0 ([armv8](https://c147793.parspack.net/c147793/InZ/InviZiblePro_armv8_v7.4.0.apk))
 - InviZible Lite — v7.4.0 ([armv8](https://c147793.parspack.net/c147793/InZ/InvizibleLite_armv8_v7.4.0.apk))
+- InviZible Pro beta — v2.6.8 ([armv8](https://github.com/nscl5/dl/raw/main/dl/Invizible_Pro__beta_ver.2.6.8.apk))
 - MahsaNG — v15 ([armv8](https://c224731.parspack.net/c224731/MahsaNG_armv8_v15.apk))
 - NekoBox — v1.4.2 ([armv8](https://c224731.parspack.net/c224731/ex/NekoBox_armv8_v1.4.2.apk) / [armv7](https://c224731.parspack.net/c224731/ex/NekoBox_armv7_v1.4.2.apk)) 🆕
 - Netmod — v4.0.2 ([armv8](https://c224731.parspack.net/c224731/NetMod_armv8_v4.0.2.apks) / [universal](https://c147793.parspack.net/c147793/Netmod/NetMod_universal_v3.2.8.apk) / [conf](https://c147793.parspack.net/c147793/SLIPNET/netmod_conf.txt))
